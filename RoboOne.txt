@@ -1,0 +1,29 @@
+﻿Nombre: Jubel Crispán
+CIP: 8-819-797
+Investigación sobre Robo One
+
+
+ROBO-ONE es una competencia de robots bípedos humanoides. El primer concurso Robo-one se realizó en Japón en el año 2002 y desde entonces se ha clasificado en varias categorías de competencia, entre ellas Robo-One J, Robo-One Especial, Robo-One Grand Prix y los eventos Robo-One técnicos de la conferencia.
+
+
+Características 
+ Los robots son principalmente construidos con Servo motores y su estructura con aluminio, aparte poseen diferentes tipos de sensores con los cuales interactúan con el medio ambiente o sus oponentes. La pequeña electrónica dentro de estos dispositivos es un micro-controlador el cual los motores dependiendo de la acción a realizar y en función a la respuesta generada por los sensores. Es importante contar con un tiempo de respuesta bastante corto para maniobrar más rápido que el oponente.
+
+
+Reglas generales
+
+
+Cuando colapsa, se cuenta como caída
+Recibir el ataque (puñetazo, patada y tirar etc), del oponente, cuando se derrumba, equivale a una caída. En la competencia, el primero que derribe a su oponente 3 veces, se proclamará como el vencedor.
+En el caso de que no se llegue a las 3 caídas, se proclamará vencedor al que tenga menos caídas tenga.
+En el caso de que no se presenten caídas, será el ganador el primero que derribe al oponente.
+
+
+¡Resbalón!
+Recepción de ataque efectivo del oponente, cuando se derrumba, es caída, pero, cuando tropieza cae, no se cuenta como caída..
+Esto se llama resbalón.
+
+
+¡Ponte de pie en 10 segundos!
+Después de un resbalón o una caída, si el robot no llega a levantarse antes de que la cuenta llegue a 10, será proclamado derrotado.
+Pero en caso de resbalón si el robot no se levanta, el operador puede realizar los ajustes necesarios, para así reanudar la competencia.
